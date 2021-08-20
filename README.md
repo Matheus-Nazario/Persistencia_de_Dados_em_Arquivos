@@ -3,7 +3,7 @@
     <img src="https://i.ibb.co/1LyDXjc/geek-Matheus.png" alt="geek-Matheus" border="0" /></a>
 </p>
 
-## Persistencia Dado em Arquivos 📈📋
+## Persistencia de Dados em Arquivos 📈📋
 
 <br>
 
@@ -17,7 +17,7 @@ Nesse repositorio tem todos os programas para maximizar os seus estudos e concei
 
 <h2 id = "techs">
 
-  🚀 Programas
+  🚀  O Programa 
 
 </h2>
 
